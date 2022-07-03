@@ -901,6 +901,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "AreaLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/AreaLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AreaLib.dll": {}
+        }
       }
     }
   },
@@ -3494,11 +3504,16 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "AreaLib/1.0.0": {
+      "type": "project",
+      "path": "../AreaLib/AreaLib.csproj",
+      "msbuildProject": "../AreaLib/AreaLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "D:\\MindboxTest\\Area\\Area\\AreaLib.csproj",
+      "AreaLib >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "coverlet.collector >= 1.2.0",
       "xunit >= 2.4.0",
@@ -3511,11 +3526,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MindboxTest\\Area\\AreaTest\\AreaLibTest.csproj",
+      "projectUniqueName": "D:\\MindboxTest\\Area\\AreaLibTest\\AreaLibTest.csproj",
       "projectName": "AreaLibTest",
-      "projectPath": "D:\\MindboxTest\\Area\\AreaTest\\AreaLibTest.csproj",
+      "projectPath": "D:\\MindboxTest\\Area\\AreaLibTest\\AreaLibTest.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\MindboxTest\\Area\\AreaTest\\obj\\",
+      "outputPath": "D:\\MindboxTest\\Area\\AreaLibTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3532,8 +3547,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\MindboxTest\\Area\\Area\\AreaLib.csproj": {
-              "projectPath": "D:\\MindboxTest\\Area\\Area\\AreaLib.csproj"
+            "D:\\MindboxTest\\Area\\AreaLib\\AreaLib.csproj": {
+              "projectPath": "D:\\MindboxTest\\Area\\AreaLib\\AreaLib.csproj"
             }
           }
         }
@@ -3583,16 +3598,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Не удалось найти проект \"D:\\MindboxTest\\Area\\Area\\AreaLib.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
-      "libraryId": "D:\\MindboxTest\\Area\\Area\\AreaLib.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  }
 }

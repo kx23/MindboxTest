@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d9KY+csZLIzpbvdFpoUoonKm6gcQzvEP8zRMuM4KJxFnOBJDUKntlhNtUMkEVeGhzdkZba0Xc4ImDDFhszSPIA==",
-  "success": false,
-  "projectFilePath": "D:\\MindboxTest\\Area\\AreaTest\\AreaLibTest.csproj",
+  "dgSpecHash": "3zFbEW47HtR6VqiscfutJ+YGI9HtceXYi20OTpB6n00N/ZifwnkL6oqGolHYVBoLBwH6rnZSBWVXBpJ7n8bqCg==",
+  "success": true,
+  "projectFilePath": "D:\\MindboxTest\\Area\\AreaLibTest\\AreaLibTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
@@ -55,15 +55,5 @@
     "C:\\Users\\Admin\\.nuget\\packages\\xunit.extensibility.execution\\2.4.0\\xunit.extensibility.execution.2.4.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Не удалось найти проект \"D:\\MindboxTest\\Area\\Area\\AreaLib.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
-      "libraryId": "D:\\MindboxTest\\Area\\Area\\AreaLib.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }
