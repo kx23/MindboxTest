@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AmQllXL7Bi+Ymit6TSextGbR2VzqhmvdD5tyZnz8cZ3/FdZ3+k1rAgomBptE9JVtRlnAY1pu8ITEZt+7RHwjiw==",
+  "success": true,
+  "projectFilePath": "D:\\MindboxTest\\Area\\AreaLibDemonstration\\AreaLibDemonstration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+D:\MindboxTest\Area\AreaLib\bin\Debug\netcoreapp3.1\AreaLib.deps.json
+D:\MindboxTest\Area\AreaLib\bin\Debug\netcoreapp3.1\AreaLib.dll
+D:\MindboxTest\Area\AreaLib\bin\Debug\netcoreapp3.1\AreaLib.pdb
+D:\MindboxTest\Area\AreaLib\obj\Debug\netcoreapp3.1\AreaLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\MindboxTest\Area\AreaLib\obj\Debug\netcoreapp3.1\AreaLib.AssemblyInfoInputs.cache
+D:\MindboxTest\Area\AreaLib\obj\Debug\netcoreapp3.1\AreaLib.AssemblyInfo.cs
+D:\MindboxTest\Area\AreaLib\obj\Debug\netcoreapp3.1\AreaLib.csproj.CoreCompileInputs.cache
+D:\MindboxTest\Area\AreaLib\obj\Debug\netcoreapp3.1\AreaLib.dll
+D:\MindboxTest\Area\AreaLib\obj\Debug\netcoreapp3.1\AreaLib.pdb

@@ -1,0 +1,17 @@
+D:\MindboxTest\Area\AreaLibDemonstration\bin\Debug\netcoreapp3.1\AreaLibDemonstration.exe
+D:\MindboxTest\Area\AreaLibDemonstration\bin\Debug\netcoreapp3.1\AreaLibDemonstration.deps.json
+D:\MindboxTest\Area\AreaLibDemonstration\bin\Debug\netcoreapp3.1\AreaLibDemonstration.runtimeconfig.json
+D:\MindboxTest\Area\AreaLibDemonstration\bin\Debug\netcoreapp3.1\AreaLibDemonstration.runtimeconfig.dev.json
+D:\MindboxTest\Area\AreaLibDemonstration\bin\Debug\netcoreapp3.1\AreaLibDemonstration.dll
+D:\MindboxTest\Area\AreaLibDemonstration\bin\Debug\netcoreapp3.1\AreaLibDemonstration.pdb
+D:\MindboxTest\Area\AreaLibDemonstration\bin\Debug\netcoreapp3.1\AreaLib.dll
+D:\MindboxTest\Area\AreaLibDemonstration\bin\Debug\netcoreapp3.1\AreaLib.pdb
+D:\MindboxTest\Area\AreaLibDemonstration\obj\Debug\netcoreapp3.1\AreaLibDemonstration.csproj.AssemblyReference.cache
+D:\MindboxTest\Area\AreaLibDemonstration\obj\Debug\netcoreapp3.1\AreaLibDemonstration.GeneratedMSBuildEditorConfig.editorconfig
+D:\MindboxTest\Area\AreaLibDemonstration\obj\Debug\netcoreapp3.1\AreaLibDemonstration.AssemblyInfoInputs.cache
+D:\MindboxTest\Area\AreaLibDemonstration\obj\Debug\netcoreapp3.1\AreaLibDemonstration.AssemblyInfo.cs
+D:\MindboxTest\Area\AreaLibDemonstration\obj\Debug\netcoreapp3.1\AreaLibDemonstration.csproj.CoreCompileInputs.cache
+D:\MindboxTest\Area\AreaLibDemonstration\obj\Debug\netcoreapp3.1\AreaLibDemonstration.csproj.CopyComplete
+D:\MindboxTest\Area\AreaLibDemonstration\obj\Debug\netcoreapp3.1\AreaLibDemonstration.dll
+D:\MindboxTest\Area\AreaLibDemonstration\obj\Debug\netcoreapp3.1\AreaLibDemonstration.pdb
+D:\MindboxTest\Area\AreaLibDemonstration\obj\Debug\netcoreapp3.1\AreaLibDemonstration.genruntimeconfig.cache
